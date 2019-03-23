@@ -1,3 +1,10 @@
+.header {
+    background-color: navy;
+    color: white;
+    padding: 100px;
+    text-align: center;
+    }
+
 body{
     background-color: lightblue;
     }
