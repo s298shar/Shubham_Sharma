@@ -16,13 +16,11 @@ body{
 ul {
     list-style-type: none;
     margin: 0;
-    width: 700px;
-    background-color: green;
-    display: block;
+    background-color: white;
     }
 
 li {
-    float: left;
+    float: center;
     display: inline-block;
     color: #000;
     padding: 8px 16px;
