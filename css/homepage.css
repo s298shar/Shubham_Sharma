@@ -1,11 +1,16 @@
 body{
-    background-color: yellow;
+    background-color: blue;
     }
 
 #center{
     background-color: lightblue;
     color: red;
     padding: 100px;
+    }
+
+.nav{
+    background-color: black;
+    display: inline-block;
     }
 
 .header {
