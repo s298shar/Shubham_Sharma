@@ -17,6 +17,7 @@ body{
 .background1{
     background-repeat: no-repeat;
     background-image: url(Images/136181723.jpg);
+    background-color: yellow;
     background-size: contain;
     }
 
