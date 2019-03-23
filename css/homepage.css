@@ -40,8 +40,7 @@ li a:hover{
 
 .background1{
     background-repeat: no-repeat;
-    background-image: src(Images/136181723.jpg);
-    background-color: yellow;
+    background-image: url(https://images.wallpaperscraft.com/image/india_akshardham_temple_beautiful_top_view_panorama_85106_1920x1080.jpg);
     background-size: contain;
     }
 
