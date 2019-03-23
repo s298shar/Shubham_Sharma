@@ -1,5 +1,11 @@
 body{
+    background-color: yellow;
+    }
+
+#center{
     background-color: lightblue;
+    color: white;
+    padding: 100px;
     }
 
 .header {
