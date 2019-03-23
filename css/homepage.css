@@ -8,6 +8,7 @@ body{
     }
 
 .nav{
+    background-color: #363636; 
     display: inline-block;
     width: 100%;
     min-height: 400px;
@@ -18,7 +19,6 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: #363636;
     }
 
 li {
