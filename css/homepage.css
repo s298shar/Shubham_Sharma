@@ -1,5 +1,6 @@
 body{
     background-color: blue;
+    background-attachment: fixed;
     }
 
 #center{
@@ -11,6 +12,19 @@ body{
 .nav{
     background-color: black;
     display: inline-block;
+    }
+
+.background1{
+    background-repeat: no-repeat;
+    background-image: url(Images/136181723.jpg);
+    background-size: contain;
+    }
+
+.summary{
+    display: inline-block;
+    background-color: black;
+    width: 100%;
+    
     }
 
 .header {
