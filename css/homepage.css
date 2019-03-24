@@ -2,12 +2,12 @@ body{
     background-color: blue;
     font-family: Ariel;
     margin: 0;
+    padding: 0;
     }
 
 .nav{
-    background-color: #363636;
+    background-color: grey;
     width: 100%;
-    overflow: hidden;
     margin: 0;
     padding: 0;
     }
@@ -41,9 +41,9 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: black;
+    background-color: black;
     color: yellow;
-}
+    }
 
 .background1{
     background-repeat: no-repeat;
