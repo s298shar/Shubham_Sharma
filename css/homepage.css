@@ -7,7 +7,7 @@ body{
     background-color: #363636;
     width: 100%;
     overflow: hidden;
-    margin: 10px 0px 10px 0px;
+    margin-top: 10px;
     }
 
 ul {
@@ -32,7 +32,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 30px;
   font-size: 20px;
   text-decoration: none;
 }
