@@ -8,7 +8,6 @@ body{
     }
 
 .nav{
-    background-color: #363636; 
     display: inline-block;
     width: 100%;
     min-height:100px;
@@ -16,6 +15,7 @@ body{
     }
 
 ul {
+    background-color: #363636; 
     position: fixed;
     list-style-type: none;
     margin: 0;
@@ -25,6 +25,10 @@ ul {
 li {
     float: left;
     border-right: solid white;
+}
+
+li:last-child {
+  border-right: none;
 }
 
 li a {
