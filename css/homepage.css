@@ -7,13 +7,14 @@ body{
     background-color: #363636;
     width: 100%;
     overflow: hidden;
+    margin: 10px 0px 10px 0px;
     }
 
 ul {
     background-color: #363636; 
     position: fixed;
     list-style-type: none;
-    min-height: 100px;
+    width: 100%;
     margin: 0;
     padding: 0;
     }
