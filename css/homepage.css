@@ -8,16 +8,19 @@ body{
     }
 
 .nav{
+    background-color: #363636;
     display: inline-block;
+    text-align: center:
     width: 100%;
-    min-height:100px;
     float: center;
+    overflow: hidden;
     }
 
 ul {
     background-color: #363636; 
     position: fixed;
     list-style-type: none;
+    min-height: 100px;
     margin: 0;
     padding: 0;
     }
