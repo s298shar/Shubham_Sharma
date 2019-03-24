@@ -7,6 +7,7 @@ body{
 
 .header{
     display: block;
+    position: fixed;
     background-color: gold;
     background-size: contain;
     color: black;
