@@ -8,6 +8,9 @@ body{
 
 .header{
     background-color: white;
+    background-repeat: no-repeat;
+    background-image: url(../Images/z667YDvL.jpg);
+    background-size: contain;
     }
 
 .nav{
