@@ -11,6 +11,7 @@ body{
     background-color: #363636; 
     display: inline-block;
     width: 100%;
+    min-height:100px;
     float: center;
     }
 
